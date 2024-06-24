@@ -44,8 +44,7 @@ Having an active connection opened between the client and the server so client c
 
 The client starts by connecting to the server through a socket(maybe also assigned to a specific namespace). Once connections is successful, client and server can emit and listen to events.  
 </div>
-<br>
-<br>
+
 ## RestFUL
 <div style="text-align: justify;">
 Using HTTP requests, we can use the respective action to trigger every of these four CRUD operations.
@@ -88,4 +87,4 @@ npm start
 ```
 
 ## Thank You! for Visiting.
-## Stars are Appreciated
+## Stars are Appreciated.
