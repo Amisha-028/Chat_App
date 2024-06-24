@@ -18,6 +18,8 @@ This project is a real-time messaging application built using the MERN stack, wh
 
 <br>
 <br>
+###Live Link : 
+
 ## User Signup
 
 If the account does not exist, the user will need to sign up:
@@ -36,34 +38,41 @@ Below is an example of a chat between two users:
 
 ![Chat Page](./frontend/public/chat.png)
 <br>
-
+<br>
 ## Sockets
 <div style="text-align: justify;">
 Having an active connection opened between the client and the server so client can send and receive data. This allows real-time communication using TCP sockets. This is made possible by Socket.io.
 
 The client starts by connecting to the server through a socket(maybe also assigned to a specific namespace). Once connections is successful, client and server can emit and listen to events.  
 </div>
-
-
+<br>
+<br>
 ## RestFUL
-<div>
+<div style="text-align: justify;">
 Using HTTP requests, we can use the respective action to trigger every of these four CRUD operations.
--POST is used to send data to a server — Create
--GET is used to fetch data from a server — Read
--PUT is used to send and update data — Update
--DELETE is used to delete data — Delete
+<br>
+1. POST is used to send data to a server — Create
+<br>
+2. GET is used to fetch data from a server — Read
+<br>  
+3. PUT is used to send and update data — Update
+<br>
+4. DELETE is used to delete data — Delete
 </div>
-
-
+<br>
+<br>
 ##installation
 <br>
 ### Clone the Repository to your local machine 
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/Amisha-028/Chat_App.git
 ```
 
-### Install Dependenciea 
+### Install Dependencies
 
+```
+npm install
+```
 
 ### Setup .env file
 
@@ -76,4 +85,9 @@ NODE_ENV=...
 
 ### Start the Application
 
+```
+npm start
+```
 
+##Thank You! for Visiting.
+##Stars are Appreciated
