@@ -18,7 +18,8 @@ This project is a real-time messaging application built using the MERN stack, wh
 ⏳ **And much more!**
 
 
-## Link : [chat-app](https://chat-app-db-yo4l.onrender.com/login)
+## Link: <a href="https://chat-app-db-yo4l.onrender.com/login" target="_blank">chat-app</a>
+
 
 ## User Signup
 
