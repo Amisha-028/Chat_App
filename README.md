@@ -24,19 +24,19 @@ This project is a real-time messaging application built using the MERN stack, wh
 
 If the account does not exist, the user will need to sign up:
 
-![SignUp Page](./frontend/public/signup.png)
+![SignUp Page](./frontend/public/signup11.png)
 
 ## User Login
 
 Here is the login page:
 
-![Login Page](./frontend/public/login.png)
+![Login Page](./frontend/public/login11.png)
 
 ## Chat Between Two Users
 
 Below is an example of a chat between two users:
 
-![Chat Page](./frontend/public/chat.png)
+![Chat Page](./frontend/public/chat11.png)
 
 ## Sockets
 <div style="text-align: justify;">
