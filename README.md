@@ -18,7 +18,8 @@ This project is a real-time messaging application built using the MERN stack, wh
 
 <br>
 <br>
-###Live Link : 
+
+## Link : [chat-app](https://chat-app-db-yo4l.onrender.com/login)
 
 ## User Signup
 
@@ -61,8 +62,7 @@ Using HTTP requests, we can use the respective action to trigger every of these 
 </div>
 <br>
 <br>
-##installation
-<br>
+## installation
 ### Clone the Repository to your local machine 
 ```
 git clone https://github.com/Amisha-028/Chat_App.git
@@ -89,5 +89,5 @@ NODE_ENV=...
 npm start
 ```
 
-##Thank You! for Visiting.
-##Stars are Appreciated
+## Thank You! for Visiting.
+## Stars are Appreciated
